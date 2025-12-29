@@ -113,7 +113,7 @@ grid-template-columns: repeat( 3, 20vw);
     }
     nav {
     background-color: rgb(133 111 255);
-    color: rgb(16, 16, 16);
+    color: wheat;
     height: 66px;
     font-size: 27px;
     text-align: center;
@@ -123,6 +123,7 @@ grid-template-columns: repeat( 3, 20vw);
     font-style: oblique;
     font-weight: 600;
 }
+
 
 
 }
